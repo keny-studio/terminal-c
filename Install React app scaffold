@@ -1,0 +1,5 @@
+// Install React app scaffold
+
+npx create-react-app my-app // my app - Your app name
+cd my-app
+npm start
