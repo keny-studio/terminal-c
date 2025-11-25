@@ -1,0 +1,3 @@
+| COMMAND | ACTION |
+|-------|--------|
+| git init | |
