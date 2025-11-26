@@ -20,7 +20,7 @@
 | npm ls | show list of installed packages and dependencies |
 | npm start | run commands defined by start property in package.json <br> (if not defined it will run the node server) |
 | npm run build | run scripts defined by build property in package.json |
-
+| npm -- watch FILE-PATH | run watch mode - live refresh on changes |
 
 
 
