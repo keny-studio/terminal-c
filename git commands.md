@@ -18,12 +18,15 @@
 | git add --all | add all files to staging area |
 | git diff | show changes not staged for comit |
 | git comit -a -m "MESSAGE" | auto stage tracked files and comit with message | 
+| git reset FILE-NAME | unstage file, keep changes in working area
 | git reset -soft HEAD^ | undo last comit, keep changes in staging area |
 | git reset -hard HEAD^ | undo last comit, remove changes in staging area |
-| git clone URL-ADRESS | clone global respository to local |
+| git clone URL-ADRESS | clone remote respository to local |
 | git branch BRANCH-NAME | create branch |
 | git branch | show current and all branches |
 | git checkout BRANCH-NAME | switch to branch from master |
 | git merge BRANCH-NAME | merge branch with master |
 | git branch -d BRANCH-NAME | delete branch |
-| git fetch | fetch any changes from global to current repository |
+| git fetch | fetch any changes from remote to current repository |
+| git push BRANCH-NAME | transmit commits from local to remote branch |
+| git pull | fetch and merge changes from remotee to current repository |
