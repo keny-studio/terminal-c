@@ -1,5 +1,4 @@
 # terminal-c
 
-## $${\color{red}Terminal \space C \space - \space Terminal \space Commands \space Library}$$
+## $${\color{red}Terminal \space C \space - \space commands, \space shortcuts, \space syntaxes}$$
 
-Library of Terminal commands and VSC shortcuts.
