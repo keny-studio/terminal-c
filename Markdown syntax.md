@@ -1,4 +1,25 @@
-## $${\color{red}Markdown}$$
+|  $${\color{red}Markdown}$$ | |
+|---------|----------|
+| | |
+| BASIC | |
+| | |
+| H1 | # |
+| H2 | ## | 
+| H3 | ### |
+| bold | \*\*bold text** |
+| italic | \*italic text*
+| blockquote | > blockquote |
+| orderded list | 1. item |
+| unordered list | - item |
+| code | \`code`|
+| horizontal rule | --- |
+| link | [title}(url) |
+| image | \!\[alt text](image.jpg) |
+| | |
+| EXTENDED | |
+| | |
+
+
 
 ### Code block
 code:
