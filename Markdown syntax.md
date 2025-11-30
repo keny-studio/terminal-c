@@ -3,6 +3,7 @@
 | | |
 | - BASIC - | |
 | | |
+| line brake | \ or \<br> or doublespace |
 | H1 | # |
 | H2 | ## | 
 | H3 | ### |
