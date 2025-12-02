@@ -3,19 +3,25 @@
 | | |
 | - BASIC - | |
 | | |
+| escape markdown formatting | \\\*\\*escaped formatting\\\*\\\*
 | line brake | \ or \<br> or doublespace |
+| comment | \<!-- comment --> |
 | H1 | # |
 | H2 | ## | 
 | H3 | ### |
 | bold | \*\*bold text** |
 | italic | \*italic text*
-| blockquote | > blockquote |
+|quote block | > blockquote |
 | orderded list | 1. item |
 | unordered list | - item |
-| code | \`code`|
+| inline code | \`code`|
 | horizontal rule | --- |
-| link | [title}(url) |
+| link | \[title](url) |
+| section link | \[title](#section-name)
+| relative link | \[title](docs/file.md)
+| custom anchor | \<a name="anchor-name">\</a>
 | image | \!\[alt text](image.jpg) |
+| mentioning | @github/usermane What's up?
 | | |
 | - EXTENDED - | |
 | | |
@@ -39,4 +45,17 @@
 | highlight | \==highlight== |
 | subscript | H\~2~O |
 | superscript | X^6^ |
+| color visualization | \`#RRGGBB`|
+| | \`rgb(R,G,B)` |
+| | \`hsl(H,S,L)` |
+| alerts | \> \[!NOTE] | 
+| | \> Note text. |
+| | \> \[!TIP] |
+| | \> Tip text. |
+| | \> \[!IMPORTANT] |
+| | \> Imporant text. |
+| | \> \[!WARNING] |
+| | \> Warning text. |
+| | \> \[!CAUTION] |
+| | \> Caution text. |
 
