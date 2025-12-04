@@ -14,6 +14,7 @@
 | npm upadate | update local node_modules dependencies |
 | npm search TERM | search packages in npm registry |
 | npm install PACKAGE-NAME | install package with dependencies |
+| npm install PACKAGE-NAME --save-dev | install package with dependencies<br> and add it as development enviornment dependecy | 
 | npm upate PACKAGE-NAME | update package with dependecies |
 | npm uninstall PACKAGE-NAME | uninstall package with dependencies |
 | npm install -g nodemon | install nodemon (live node development) |
@@ -21,7 +22,4 @@
 | npm start | run commands defined by start property in package.json <br> (if not defined it will run the node server) |
 | npm run build | run scripts defined by build property in package.json |
 | npm -- watch FILE-PATH | run watch mode - live refresh on changes |
-
-
-
 
