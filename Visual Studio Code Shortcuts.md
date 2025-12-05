@@ -15,6 +15,7 @@
 | shift + ctrl + N | new window |
 | ctrl + Tab | select file tab |
 | ctrl + W | close file tab |
+| ctrl + \ | split editor |
 | ctrl + + | zoom in |
 | ctrl + - | zoom out |
 | | |
@@ -24,6 +25,7 @@
 | ctrl + N | create new file |
 | | |
 | $${\color{red}CODE \space EDITING}$$ | |
+|
 
 
 
