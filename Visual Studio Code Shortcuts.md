@@ -32,7 +32,7 @@
 | ctrl + shift + K | delete line |
 | ctrl + enter / ctrl + shift + enter | insert line below / above |
 | ctrl + shift + \ | jump to matching bracket |
-| ctrl+] / ctrl + [ | indent / Outdent line |
+| ctrl+] / ctrl + [ | indent / outdent line |
 | ctrl + home / end | go to beginning / end of file |
 | ctrl + ↑ / ↓ | scroll line up / down | 
 | alt + pgup / pgdn | scroll page up / down | 
