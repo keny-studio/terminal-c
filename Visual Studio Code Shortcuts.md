@@ -46,7 +46,7 @@
 | alt + Z | toggle word wrap |
 | | |
 | $${\color{red}TERMINAL}$$ | |
-| ctrl + L | clean terminal |
+| ctrl + L | clear terminal |
 | ↑ / ↓ | previous / next command from history |
 
 
