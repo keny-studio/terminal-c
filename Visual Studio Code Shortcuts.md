@@ -44,6 +44,10 @@
 | ctrl + / | toggle line comment |
 | ctrl + shift + A | toggle block comment |
 | alt + Z | toggle word wrap |
+| | |
+| $${\color{red}TERMINAL}$$ | |
+| ctrl + L | clean terminal |
+| ↑ / ↓ | previous / next command from history |
 
 
 
