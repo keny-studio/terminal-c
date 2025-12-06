@@ -44,6 +44,7 @@
 | ctrl + / | toggle line comment |
 | ctrl + shift + A | toggle block comment |
 | alt + Z | toggle word wrap |
+| ctrl + space | show IntelliSense (auto code completion)|
 | | |
 | $${\color{red}TERMINAL}$$ | |
 | ctrl + L | clear terminal |
