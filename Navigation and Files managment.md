@@ -18,3 +18,4 @@
 | - OTHER - | |
 | tracert URL/IP | step-by-step breakdown of the route to the destination, including the IP address of each router and the time it took for each hop |
 | ping IP | measures the round-trip time for messages sent from the originating host to a destination computer that are echoed back to the source |
+| irm "https://christitus.com/win"  | download and run Chris Titus Tech's Windows Utility |
