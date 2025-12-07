@@ -11,6 +11,7 @@
 | ctrl + 1,2,3... | switch focus between tab groups |
 | ctrl + 0 | focus sidebar |
 | ctrl + shift + E | toggle navigation bar focus |
+| ctrl + shift + X | open extension tab |
 | ctrl + B | toggle sidebar |
 | shift + ctrl + N | new window |
 | ctrl + Tab | select file tab |
@@ -45,6 +46,7 @@
 | ctrl + shift + A | toggle block comment |
 | alt + Z | toggle word wrap |
 | ctrl + space | show IntelliSense (auto code completion)|
+| Tab | code completion - insert snippet |
 | | |
 | $${\color{red}TERMINAL}$$ | |
 | ctrl + L | clear terminal |
