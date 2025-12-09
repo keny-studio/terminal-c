@@ -1,5 +1,7 @@
+| $${\color{red}git}$$ | |
+|------|---------|
 | COMMAND | ACTION |
-|-------|--------|
+| | |
 | git help | show help |
 | git -version | show version |
 | git config --global user.name "NAME" | set username |
@@ -16,6 +18,7 @@
 | git add FOLDER-NAME/ | add folder to staging area |
 | git add "*.type" | add all .type files to staging area | 
 | git add --all | add all files to staging area |
+| git add . | ^ |
 | git diff | show changes not staged for comit |
 | git comit -a -m "MESSAGE" | auto stage tracked files and comit with message | 
 | git reset FILE-NAME | unstage file, keep changes in working area
