@@ -1,6 +1,8 @@
 |  $${\color{red}Jest}$$ | |
 |---------|----------|
 | | |
+| COMMAND | ACTION |
+| | |
 | npm install --save-dev jest | install Jest  as development dependency |
 | test | run all defined tests |
 | .../.../test_folder | runs test in specific folder |
