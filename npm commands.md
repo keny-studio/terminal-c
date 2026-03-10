@@ -23,4 +23,5 @@
 | npm run build | run scripts defined by build property in package.json |
 | npm -- watch FILE-PATH | run watch mode - live refresh on changes |
 | npm ci | clean install - installs dependencies directly from a package-lock.json file. It is faster than npm install and ensures consistent, reproducible builds by deleting existing node_modules and avoiding package-lock.json updates |
+| npm audit | scans project's package.json and package-lock.json for known security vulnerabilities in dependencies. It compares dependency tree against the GitHub Advisory Database, providing reports, severity levels, and automated fix suggestions. |
 
