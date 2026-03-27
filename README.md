@@ -1,4 +1,4 @@
 # terminal-c
 
-## $${\color{red}Terminal \space C \space - \space commands, \space shortcuts, \space syntaxes}$$
+## $${\color{red}Terminal \ C \ - \ commands, \ tools \ shortcuts, \ syntaxes}$$
 
